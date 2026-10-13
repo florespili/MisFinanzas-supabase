@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas Pastel",
+  "description": "Aplicación de finanzas personales inspirada en Mujer Financiera con estética pastel suave, balance, ingresos, gastos, presupuestos, acceso por PIN y conexión con Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
